@@ -1,16 +1,34 @@
-### Hi there 👋
+hi i'm blmayer.
+--------------
 
-<!--
-**blmayer/blmayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i like creating computer programs, you can see some of my works here,
+but also check out:
 
-Here are some ideas to get you started:
+- [my portfolio](https://blmayer.dev)
+- [my blog](https://saucecode.bar)
+- [my webring](https://derelict.garden)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+these projects are *hosted on my raspiberry pi*, on my living room!
+
+some programs that are somewhat *stable*:
+
+- [astro: gemini terminal browser](https://github.com/deep)
+- [local lambda invoker tool](https://github.com/blmayer/awslambdarpc)
+- [system status for dwm](https://github.com/blmayer/sysmon)
+
+i also have some *published web projects*:
+
+- [tasker](https://tasker.blmayer.dev)
+- [recipes](https://feitaemcasa.com)
+- [python package builder](https://gopip.blmayer.dev) (will be offline soon)
+
+and some *libraries* to make things easy or more interesting:
+
+- [web libraries](https://github.com/weblibs)
+- [neural networks in R](https://github.com/deep)
+- [git web interface](https://blmayer.dev/git/gwi)
+
+of course, checkout my repos here, you may like something.
+thank you for taking your time!
+
+---

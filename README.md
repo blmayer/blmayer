@@ -12,7 +12,7 @@ these projects are *hosted on my raspiberry pi*, on my living room!
 
 some programs that are somewhat *stable*:
 
-- [astro: gemini terminal browser](https://github.com/deep)
+- [astro: gemini terminal browser](https://github.com/astro)
 - [local lambda invoker tool](https://github.com/blmayer/awslambdarpc)
 - [system status for dwm](https://github.com/blmayer/sysmon)
 
@@ -30,5 +30,3 @@ and some *libraries* to make things easy or more interesting:
 
 of course, checkout my repos here, you may like something.
 thank you for taking your time!
-
----

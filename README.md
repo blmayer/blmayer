@@ -26,7 +26,7 @@ and some *libraries* to make things easy or more interesting:
 
 - [web libraries](https://github.com/weblibs)
 - [neural networks in R](https://github.com/deep)
-- [git web interface](https://blmayer.dev/git/gwi)
+- [git web interface](https://blmayer.dev/x/gwi)
 
 of course, checkout my repos here, you may like something.
 thank you for taking your time!

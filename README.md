@@ -7,6 +7,7 @@ but also check out:
 - [my portfolio](https://blmayer.dev)
 - [my blog](https://saucecode.bar)
 - [my webring](https://derelict.garden)
+- [my own mail server](https://dovel.email)
 
 these projects are *hosted on my raspiberry pi*, on my living room!
 

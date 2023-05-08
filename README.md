@@ -5,7 +5,7 @@ i like creating computer programs, you can see some of my works here,
 but also check out:
 
 - [my portfolio](https://blmayer.dev)
-- [my blog](https://saucecode.bar)
+- [my blog](https://blmayer.dev/b)
 - [my webring](https://derelict.garden)
 - [my own mail server](https://dovel.email)
 

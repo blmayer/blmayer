@@ -4,8 +4,8 @@ hi i'm blmayer.
 i like creating computer programs, you can see some of my works here,
 but also check out:
 
-- [my portfolio](https://blmayer.dev)
-- [my blog](https://blmayer.dev/b)
+- [my portfolio](https://myr.sh)
+- [my blog](https://blog.myr.sh)
 - [my webring](https://derelict.garden)
 - [my own mail server](https://dovel.email)
 
@@ -21,7 +21,7 @@ i also have some *published web projects*:
 
 - [tasker](https://tasker.blmayer.dev)
 - [recipes](https://feitaemcasa.com)
-- [python package builder](https://gopip.blmayer.dev) (will be offline soon)
+- [python package builder](https://gopip.blmayer.dev) (discontinued)
 
 and some *libraries* to make things easy or more interesting:
 

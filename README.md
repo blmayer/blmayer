@@ -19,15 +19,15 @@ some programs that are somewhat *stable*:
 
 i also have some *published web projects*:
 
-- [tasker](https://tasker.blmayer.dev)
+- [tasker](https://tasker.myr.sh)
 - [recipes](https://feitaemcasa.com)
-- [python package builder](https://gopip.blmayer.dev) (discontinued)
+- [python package builder](https://github.com/blmayer/gopip) (discontinued)
 
 and some *libraries* to make things easy or more interesting:
 
 - [web libraries](https://github.com/weblibs)
 - [neural networks in R](https://github.com/deep)
-- [git web interface](https://blmayer.dev/x/gwi)
+- [git web interface](https://github.com/blmayer/gwi)
 
 of course, checkout my repos here, you may like something.
 thank you for taking your time!

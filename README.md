@@ -20,7 +20,7 @@ some programs that are somewhat *stable*:
 i also have some *published web projects*:
 
 - [tasker](https://tasker.myr.sh)
-- [recipes](https://feitaemcasa.com)
+- [recipes](https://github.com/homemaderecipes) (discontinued)
 - [python package builder](https://github.com/blmayer/gopip) (discontinued)
 
 and some *libraries* to make things easy or more interesting:

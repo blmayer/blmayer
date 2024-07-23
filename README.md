@@ -13,7 +13,7 @@ these projects are *hosted on my raspiberry pi*, on my living room!
 
 some programs that are somewhat *stable*:
 
-- [ereandel: gemini terminal browser](https://github.com/ereandel)
+- [ereandel: gemini terminal browser](https://github.com/blmayer/ereandel)
 - [local lambda invoker tool](https://github.com/blmayer/awslambdarpc)
 - [system status for dwm](https://github.com/blmayer/sysmon)
 

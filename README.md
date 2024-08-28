@@ -19,9 +19,7 @@ some programs that are somewhat *stable*:
 
 i also have some *published web projects*:
 
-- [tasker](https://tasker.myr.sh)
-- [recipes](https://github.com/homemade-recipes) (discontinued)
-- [python package builder](https://github.com/blmayer/gopip) (discontinued)
+- [tasker](https://deta.space/discovery/@brain/tasker)
 
 and some *libraries* to make things easy or more interesting:
 

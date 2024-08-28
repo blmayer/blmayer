@@ -4,8 +4,8 @@ hi i'm blmayer.
 i like creating computer programs, you can see some of my works here,
 but also check out:
 
-- [my portfolio](https://myr.sh)
-- [my blog](https://blog.myr.sh)
+- [my portfolio](https://terminal.pink)
+- [my blog](https://blog.terminal.pink)
 - [my webring](https://derelict.garden)
 - [my own mail server](https://dovel.email)
 

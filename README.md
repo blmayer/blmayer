@@ -1,15 +1,20 @@
 hi i'm blmayer.
 --------------
 
-i like creating computer programs, you can see some of my works here,
-but also check out:
+i'm currently working as a full-stack developer at
+Toric!
+
+here you can see some of my works,
+but also check out my other projects:
 
 - [my portfolio](https://terminal.pink)
 - [my blog](https://blog.terminal.pink)
 - [my webring](https://derelict.garden)
 - [my own mail server](https://dovel.email)
+- [my linux distro](https://terminal.pink/lin0/tree/index.html)
 
 these projects are *hosted on my raspiberry pi*, on my living room!
+i also host my email and git repos using simple shell scripts.
 
 some programs that are somewhat *stable*:
 
@@ -29,3 +34,10 @@ and some *libraries* to make things easy or more interesting:
 
 of course, checkout my repos here, you may like something.
 thank you for taking your time!
+
+these days i'm trying to contribute to open source projects:
+
+- toybox
+- tinycc
+- scc
+- musl

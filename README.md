@@ -11,7 +11,7 @@ but also check out my other projects:
 - [my blog](https://blog.terminal.pink)
 - [my webring](https://derelict.garden)
 - [my own mail server](https://dovel.email)
-- [my linux distro](https://terminal.pink/lin0/tree/index.html)
+- [my linux distro](https://terminal.pink/lin0/tree/index.html) also [here](https://github.com/blmayer/lin0).
 
 these projects are *hosted on my raspiberry pi*, on my living room!
 i also host my email and git repos using simple shell scripts.

@@ -22,6 +22,9 @@ some programs that are somewhat *stable*:
 - [local lambda invoker tool](https://github.com/blmayer/awslambdarpc)
 - [system status for dwm](https://github.com/blmayer/sysmon)
 
+if you like hardware i started venturing into this land, checkout my
+[cyberware](https://terminal.pink/cyberware/index.html) project.
+
 i also have some *published web projects*:
 
 - [tasker](https://deta.space/discovery/@brain/tasker)

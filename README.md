@@ -13,6 +13,7 @@ but also check out my other projects:
 - [my own mail server](https://dovel.email)
 - [lin0: a minimal linux distro](https://terminal.pink/lin0/index.html) also [here](https://github.com/blmayer/lin0).
 - [a graphical display server](https://terminal.pink/bgce/index.html) and [here](https://github.com/blmayer/bgce).
+- [and a neovim plugin to integrate your favourite AI agent](https://terminal.pink/tai/index.html)
 
 these projects are *hosted on my raspiberry pi*, on my living room!
 i also host my email and git repos using simple shell scripts.

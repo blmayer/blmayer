@@ -13,6 +13,7 @@ but also check out my other projects:
 - [my own mail server](https://dovel.email)
 - [lin0: a minimal linux distro](https://terminal.pink/lin0/index.html) also [here](https://github.com/blmayer/lin0).
 - [a graphical display server](https://terminal.pink/bgce/index.html) and [here](https://github.com/blmayer/bgce).
+- [a toolkit for bgce](https://terminal.pink/bgtk/index.html) and [here](https://github.com/blmayer/bgtk).
 - [and a neovim plugin to integrate your favourite AI agent](https://terminal.pink/tai/index.html)
 
 these projects are *hosted on my raspiberry pi*, on my living room!
@@ -23,7 +24,6 @@ some programs that are somewhat *stable*:
 - [ereandel: gemini terminal browser](https://github.com/blmayer/ereandel)
 - [local lambda invoker tool](https://github.com/blmayer/awslambdarpc)
 - [system status for dwm](https://github.com/blmayer/sysmon)
-- [a toolkit for bgce](https://terminal.pink/bgtk/index.html) and [here](https://github.com/blmayer/bgtk).
 
 if you like hardware i started venturing into this land, checkout my
 [cyberware](https://terminal.pink/cyberware/index.html) project.

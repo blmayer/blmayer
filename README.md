@@ -1,8 +1,17 @@
+
 hi i'm blmayer.
 --------------
 
-i'm currently working as a full-stack developer at
-Datagrid!
+```
+##>._
+"  /
+         __   |
+          *|  |
+             _|
+            _|
+          ___|
+            ""
+```
 
 here you can see some of my works,
 but also check out my other projects:
@@ -14,7 +23,8 @@ but also check out my other projects:
 - [lin0: a minimal linux distro](https://terminal.pink/lin0/index.html) also [here](https://github.com/blmayer/lin0).
 - [a graphical display server](https://terminal.pink/bgce/index.html) and [here](https://github.com/blmayer/bgce).
 - [a toolkit for bgce](https://terminal.pink/bgtk/index.html) and [here](https://github.com/blmayer/bgtk).
-- [and a neovim plugin to integrate your favourite AI agent](https://terminal.pink/tai/index.html)
+- [a neovim plugin to integrate your favourite AI agent](https://terminal.pink/tai/index.html) my daily driver!
+- [and a crazy political experiment](https://polis.dev.br)
 
 these projects are *hosted on my raspiberry pi*, on my living room!
 i also host my email and git repos using simple shell scripts.

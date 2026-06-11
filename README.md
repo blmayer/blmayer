@@ -18,7 +18,6 @@ but also check out my other projects:
 
 - [portfolio](https://terminal.pink), don't forget to sign the [guestbook](https://terminal.pink/g.html)!
 - [blog](https://blog.terminal.pink)
-- [webring](https://derelict.garden)
 - [my own mail server](https://dovel.email)
 - [lin0: a minimal linux distro](https://terminal.pink/lin0/index.html) also [here](https://github.com/blmayer/lin0).
 - [a graphical display server](https://terminal.pink/bgce/index.html) and [here](https://github.com/blmayer/bgce).
@@ -51,5 +50,7 @@ these days i'm trying to contribute to open source projects:
 
 - toybox
 - tinycc
+- minibox
+- go-git
 - scc
 - musl
